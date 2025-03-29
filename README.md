@@ -19,10 +19,11 @@ Saya adalah seorang web developer. Seorang siswa yang berdedikasi di SMK Telkom 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
+<div style="display: flex; gap: 10px;">
 ![](https://github-contributor-stats.vercel.app/api?username=dzulfiqar890&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img width="200" height="200" src="mingkem.png"/>
-
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=dzulfiqar890&icon=0&color=0)](https://visitcount.itsvg.in)
 
