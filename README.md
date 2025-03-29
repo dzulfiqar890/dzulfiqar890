@@ -19,7 +19,7 @@ Saya adalah seorang web developer. Seorang siswa yang berdedikasi di SMK Telkom 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-| ![](https://github-contributor-stats.vercel.app/api?username=dzulfiqar890&limit=5&theme=dark&combine_all_yearly_contributions=true) | <img src="mingkem.png" width="200" height="200"> |
+| ![](https://github-contributor-stats.vercel.app/api?username=dzulfiqar890&limit=5&theme=dark&combine_all_yearly_contributions=true) | <img src="mingkem.png" width="200" height="200"> | <img src="apple.png" width="200" height="200"> |
 |-----------------|-----------------|
 
 ---
